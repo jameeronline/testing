@@ -352,6 +352,11 @@ body {
   line-height: 1;
 }
 
+.no-link{
+  color: #333;
+  pointer-events: none;
+}
+
 @media print {
   @page {
     margin: 0;
