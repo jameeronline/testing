@@ -1,0 +1,39 @@
+/* cairo-regular - 400 */
+@font-face {
+  font-family: 'Cairo';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/cairo-v9-latin-ext_latin_arabic-regular.eot');
+  src: local(''),
+       url('fonts/cairo-v9-latin-ext_latin_arabic-regular.eot?#iefix') format('embedded-opentype'),
+       url('fonts/cairo-v9-latin-ext_latin_arabic-regular.woff2') format('woff2'),
+       url('fonts/cairo-v9-latin-ext_latin_arabic-regular.woff') format('woff'),
+       url('fonts/cairo-v9-latin-ext_latin_arabic-regular.ttf') format('truetype'),
+       url('fonts/cairo-v9-latin-ext_latin_arabic-regular.svg#Cairo') format('svg');
+}
+/* cairo-600 - 600 */
+@font-face {
+  font-family: 'Cairo';
+  font-style: normal;
+  font-weight: 600;
+  src: url('fonts/cairo-v9-latin-ext_latin_arabic-600.eot');
+  src: local(''),
+       url('fonts/cairo-v9-latin-ext_latin_arabic-600.eot?#iefix') format('embedded-opentype'),
+       url('fonts/cairo-v9-latin-ext_latin_arabic-600.woff2') format('woff2'),
+       url('fonts/cairo-v9-latin-ext_latin_arabic-600.woff') format('woff'),
+       url('fonts/cairo-v9-latin-ext_latin_arabic-600.ttf') format('truetype'),
+       url('fonts/cairo-v9-latin-ext_latin_arabic-600.svg#Cairo') format('svg');
+}
+/* cairo-700 - 700 */
+@font-face {
+  font-family: 'Cairo';
+  font-style: normal;
+  font-weight: 700;
+  src: url('fonts/cairo-v9-latin-ext_latin_arabic-700.eot');
+  src: local(''),
+       url('fonts/cairo-v9-latin-ext_latin_arabic-700.eot?#iefix') format('embedded-opentype'),
+       url('fonts/cairo-v9-latin-ext_latin_arabic-700.woff2') format('woff2'),
+       url('fonts/cairo-v9-latin-ext_latin_arabic-700.woff') format('woff'),
+       url('fonts/cairo-v9-latin-ext_latin_arabic-700.ttf') format('truetype'),
+       url('fonts/cairo-v9-latin-ext_latin_arabic-700.svg#Cairo') format('svg');
+}
