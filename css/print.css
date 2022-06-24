@@ -181,6 +181,10 @@ body {
   height: 120px;
 }
 
+.page-footer-space {
+  height: 60px;
+}
+
 .page-footer {
   align-items: center;
   border: none !important;
