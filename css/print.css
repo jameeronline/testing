@@ -115,6 +115,7 @@ body {
 /*Print Header Styles*/
 .page-header-space {
   height: 140px;
+  transform: translate3d(0,0,0);
 }
 
 .page-header {
@@ -183,6 +184,7 @@ body {
 
 .page-footer-space {
   height: 60px;
+  transform: translate3d(0,0,0);
 }
 
 .page-footer {
@@ -371,6 +373,11 @@ body {
 
   body {
     font-size: 14px !important;
+  }
+
+  .page-header-space,
+  .page-footer-space {
+    transform: translate3d(0,0,0);
   }
 
   /*Print Footer Styles*/
